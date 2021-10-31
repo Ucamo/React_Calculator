@@ -1,0 +1,12 @@
+.buttonHolder {
+    background: #aaa;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .btnCalc {
+    flex-grow: 1;
+    width: 25%;
+    height: 100px;
+  }
+  
